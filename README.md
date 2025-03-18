@@ -91,7 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 For any queries or suggestions, feel free to reach out:
 - **GitHub:** [Pratap6130](https://github.com/Pratap6130)
-- **Email:** pratap@example.com (Replace with actual email)
 
 ---
 Give a ⭐ if you like this project!
