@@ -1,4 +1,4 @@
-# MERN Amazona - E-Commerce Website
+# MERN Project Website
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue.svg)
 
