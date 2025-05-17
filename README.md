@@ -68,8 +68,6 @@ mern-amazona-master/
    - Frontend: `http://localhost:3000`
    - Backend API: `http://localhost:5000`
 
-## 📷 Screenshots
-(Add screenshots of your project here)
 
 ## 🚀 Deployment
 To deploy the application, you can use services like:
