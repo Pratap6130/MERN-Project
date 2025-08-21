@@ -1,9 +1,9 @@
-# MERN Project Website
+# Amazona
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue.svg)
 
 ## 🚀 Introduction
-MERN Amazona is a full-fledged e-commerce web application built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This project adheres to modern web development practices, offering a fully functional e-commerce platform that includes user authentication, product management, and order processing.
+Amazona is a full-fledged e-commerce web application built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This project adheres to modern web development practices, offering a fully functional e-commerce platform that includes user authentication, product management, and order processing.
 
 ## 🛠 Features
 
