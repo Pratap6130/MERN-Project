@@ -3,16 +3,16 @@
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue.svg)
 
 ## 🚀 Introduction
-MERN Amazona is a full-fledged e-commerce web application built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This project follows modern web development practices and provides a fully functional e-commerce platform with user authentication, product management, and order processing.
+MERN Amazona is a full-fledged e-commerce web application built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This project adheres to modern web development practices, offering a fully functional e-commerce platform that includes user authentication, product management, and order processing.
 
 ## 🛠 Features
 
-- **User Authentication & Authorization** (Login, Register, Admin Panel)
+- **User Authentication & Authorisation** (Login, Register, Admin Panel)
 - **Product Management** (CRUD operations for products)
 - **Shopping Cart** (Add, remove, and update cart items)
 - **Order Processing** (Checkout, payment integration, and order history)
 - **Admin Dashboard** (Manage products, users, and orders)
-- **Responsive Design** (Optimized for mobile and desktop views)
+- **Responsive Design** (Optimised for mobile and desktop views)
 - **Payment Integration** (Stripe/PayPal support for transactions)
 - **RESTful API** (Efficient API structure with secure endpoints)
 
@@ -83,14 +83,6 @@ Feel free to contribute to this project. If you find any issues or want to add f
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-For any queries or suggestions, feel free to reach out:
-- **GitHub:** [Pratap6130](https://github.com/Pratap6130)
-
----
 Give a ⭐ if you like this project!
 
 
